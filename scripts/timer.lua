@@ -12,7 +12,7 @@ function Timer:load()
     self.gameEnd = false
     self.gameOver = false
     self.freezeTime = 5
-    self.playTime = 4
+    self.playTime = 61
     self.endTime = 3
 end
 
